@@ -39,4 +39,3 @@
 * PUT
 * PATCH
 * DELETE
- 
